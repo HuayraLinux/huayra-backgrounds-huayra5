@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "mate-wp-list.dtd">
+<wallpapers>
+    <!-- Serie Huayra 4 -->
+    <wallpaper deleted="false">
+        <name>Serie Huayra 5 1</name>
+        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-huayra5/WallpaperH5_1.png</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+	<artist>Carolina «Chinchi» Hortal, Claudio «Maléfico» Andaur</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Huayra 5 - 2</name>
+        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-huayra5/WallpaperH5_2.png</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+	<artist>Carolina «Chinchi» Hortal, Claudio «Maléfico» Andaur</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Huayra 5 - 3</name>
+        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-huayra5/WallpaperH5_3.png</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+	<artist>Carolina «Chinchi» Hortal, Claudio «Maléfico» Andaur</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Huayra 5 - 4</name>
+        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-huayra5/WallpaperH5_4.png</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+	<artist>Carolina «Chinchi» Hortal, Claudio «Maléfico» Andaur</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Huayra 5 - 5</name>
+        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-huayra5/WallpaperH5_5.png</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+	<artist>Carolina «Chinchi» Hortal, Claudio «Maléfico» Andaur</artist>
+    </wallpaper>
+</wallpapers>
